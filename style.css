@@ -1,0 +1,80 @@
+
+.container a{
+    font-size: 1.5rem;
+    color: rgb(13, 216, 158);
+}
+.navbar-nav a{
+    color: rgb(13, 216, 158);
+
+}
+
+.navbar{
+    background-color: orange;
+}
+
+
+/* .collapse a{
+    color: rgb(250, 254, 254);
+
+} */
+.carousel-item{
+    height: 100vh;
+}
+/* .row img{
+    margin-top: 1rem;
+} */
+.carousel-caption h1{
+    color: white;
+}
+.carousel-caption p{
+    color: white;
+    font-size: 2rem;
+}
+
+.card-text {
+    color: brown;
+    font-size: unset;
+}
+
+.carousel-caption{
+    margin-bottom: 20rem;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color:  rgb(13, 216, 158);
+    
+}
+/* .img .pic{
+    width: 20rem;
+}
+  */
+  .image h1{
+    text-align: center;
+  }
+
+ 
+ 
+
+ .icon-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .icon{
+    
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+}
+.icon-div :hover{
+    
+    background-color: orange;
+}
+.icon :hover{
+    background-color: white;
+}
